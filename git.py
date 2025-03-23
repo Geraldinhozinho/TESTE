@@ -1,1 +1,1 @@
-v1 = int(input())
+v1 = int(input('ola mundo? '))
